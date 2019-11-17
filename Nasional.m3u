@@ -68,6 +68,9 @@ http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=0
 http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="http://image.azuza.web.id/images/vchanel-1553037616.jpg" group-title="LOKAL", V CHANNEL
 http://rr2.dens.tv/s/s41/index2.m3u8
-#EXTINF:0 tvg-logo="	https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Facebook-512.png	"  group-title="	Internasional	",	AXN	http://210.210.155.35/session/c7b7f412-514c-11e9-a349-c81f66f89318/uq2663/h/h141/index.m3u8
-#EXTINF:0 tvg-logo="	https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Facebook-512.png	"  group-title="	Internasional	",	HBO 2	http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:0 tvg-logo="	https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Facebook-512.png	"  group-title="	Internasional	",	HBO	http://161.0.157.5/PLTV/88888888/224/3221227026/02.m3u8
+#EXTINF:0 tvg-logo="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Facebook-512.png	"group-title="Internasional",AXN	
+http://210.210.155.35/session/c7b7f412-514c-11e9-a349-c81f66f89318/uq2663/h/h141/index.m3u8
+#EXTINF:0 tvg-logo="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Facebook-512.png	"group-title="Internasional",HBO 2	
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:0 tvg-logo="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Facebook-512.png	"group-title="Internasional",HBO	
+http://161.0.157.5/PLTV/88888888/224/3221227026/02.m3u8
