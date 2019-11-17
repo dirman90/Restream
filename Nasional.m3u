@@ -1,0 +1,71 @@
+#EXTM3U
+########################################## LOKAL ######################################################
+#EXTINF:1 tvg-logo="" group-title="LOKAL",THE INDONESIA CHANEL
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOKAL",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOKAL",NET.
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1  tvg-logo="" group-title="LOKAL",NET TV HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:0 tvg-logo="" group-title="LOKAL",RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="" group-title="LOKAL",RCTI HD
+http://id8.indostreamingtv.com/live/tv66/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="LOKAL",GLOBAL TV SD
+http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="" group-title="LOKAL",GLOBAL TV HD
+http://202.80.222.130/000001/2/ch14041511505498448705/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:1 tvg-logo="" group-title="LOKAL",MNC
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="" group-title="LOKAL",iNews
+http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="" group-title="LOKAL",SCTV
+http://rr2.dens.tv/s/s103/index2.m3u8
+#EXTINF:0 tvg-logo="" group-title="LOKAL",SCTV HD
+http://id2.indostreamingtv.com/live/tv2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOKAL",TRANSTV
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="" group-title="LOKAL",TRANS7
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="LOKAL",TRANSTV 2
+http://rr2.dens.tv/s/s100/index2.m3u8
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png" group-title="LOKAL",INDOSIAR
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png" group-title="LOKAL",INDOSIAR HD
+http://id2.indostreamingtv.com/live/tv111/index.m3u8
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="LOKAL",ANTV 1
+http://210.210.155.35/session/7fd33922-46b1-11e9-b863-c81f66f89318/qwr9ew/s/s102/01.m3u8
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="LOKAL",ANTV 2
+http://202.80.222.170/000001/2/ch14061215034900095272/1001.m3u8?
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="LOKAL",TVONE
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="LOKAL",TVONE HD
+http://rr2.dens.tv/s/s105/index2.m3u8
+#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/BeritaSatu.png" group-title="LOKAL DAERAH",BERITA_SATU_HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH",BERITA_SATU_WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+ 
+ 
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="LOKAL",KOMPAS TV
+http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="LOKAL",METRO TV
+http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="LOKAL",METRO TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_rtv_big1.png" group-title="LOKAL",RTV
+http://210.210.155.35/session/7a9be4ec-f443-11e8-a629-b82a72d63267/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Jak_tv_%282010%29.png" group-title="LOKAL",Jak TV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="http://www.geocities.ws/andriant/foto/shintia.jpg" group-title="LOKAL",ELSHINTA TV
+http://rr2.dens.tv/s/s10/index.m3u8
+#EXTINF:0 tvg-logo="http://www.geocities.ws/andriant/foto/shintia.jpg" group-title="LOKAL",Elshinta
+http://210.210.155.35/session/a3a86eca-319a-11e9-ba6a-b82a72d63267/qwr9ew/s/s10/02.m3u8
+ 
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/f/f7/Jtv.png" group-title="LOKAL",JTV SURABAYA
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="http://images.useetv.com/logo_balitv_big1.png" group-title="LOKAL",Bali TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/vchanel-1553037616.jpg" group-title="LOKAL", V CHANNEL
+http://rr2.dens.tv/s/s41/index2.m3u8
